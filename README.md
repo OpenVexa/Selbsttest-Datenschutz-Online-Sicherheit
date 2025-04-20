@@ -1,3 +1,4 @@
+- **Website**: [openvexa.de](https://openvexa.de)
 # Selbsttest: Datenschutz und Online-Sicherheits-Test
 
 Ein interaktiver Selbsttest, der Nutzern hilft, ihre Online-Sicherheits- und Datenschutzpraktiken zu überprüfen und zu verbessern. Der Test bewertet verschiedene Aspekte der digitalen Sicherheit, einschließlich Passwortmanagement, Zwei-Faktor-Authentifizierung, Nutzung von VPNs und mehr.
@@ -33,5 +34,5 @@ Dieses Tool ist unter der [GNU General Public License Version 3](https://www.gnu
 
 ## Kontakt
 
-- **Website**: [openvexa.de](https://openvexa.de)
+
 - **E-Mail**: support@openvexa.de
